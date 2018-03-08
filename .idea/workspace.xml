@@ -7,167 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f0a72f-915a-42ae-913b-ea2b67be1ec5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ssmcrud_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mbg.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/controller/EmployeeController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/mapper/DepartmentMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/mapper/EmployeeMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/Department.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/DepartmentExample$Criteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/DepartmentExample$Criterion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/DepartmentExample$GeneratedCriteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/DepartmentExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/Employee.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/EmployeeExample$Criteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/EmployeeExample$Criterion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/EmployeeExample$GeneratedCriteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/pojo/EmployeeExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/service/EmployeeService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/test/MapperTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/test/MbgTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/test/MvcTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/dbconf.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/dispatcherServlet-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/mapper/DepartmentMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/mapper/EmployeeMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/mybatis-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/jsp/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/aspectjweaver-1.8.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/c3p0-0.9.1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/jsqlparser-0.9.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/jstl-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/junit-4.12.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/mybatis-3.4.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/mybatis-generator-core-1.3.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/mybatis-spring-1.3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.45.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/pagehelper-5.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-aop-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-aspects-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-beans-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-context-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-core-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-expression-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-jdbc-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-tx-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-web-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/lib/spring-webmvc-4.3.7.RELEASE.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/qq.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/bootstrap-3.3.7-dist/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/static/js/jquery-1.12.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/mapper/DepartmentMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/mapper/EmployeeMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/pojo/Department.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/pojo/DepartmentExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/pojo/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/pojo/EmployeeExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/service/EmployeeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/test/MapperTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/test/MbgTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/zz/test/MvcTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/dbconf.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/dispatcherServlet-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/jsp/list.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/index.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/qq.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/bootstrap-3.3.7-dist/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/web/static/js/jquery-1.12.4.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ssmcrud.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/EmployeeController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/mapper/DepartmentMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/mapper/EmployeeMapper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Department.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/DepartmentExample$Criteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/DepartmentExample$Criterion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/DepartmentExample$GeneratedCriteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/DepartmentExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Employee.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/EmployeeExample$Criteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/EmployeeExample$Criterion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/EmployeeExample$GeneratedCriteria.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/EmployeeExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/service/EmployeeService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/test/MapperTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/test/MbgTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zz/test/MvcTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dbconf.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/dispatcherServlet-servlet.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mapper/DepartmentMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mapper/EmployeeMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssmcrud_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/ssmcrud_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/controller/EmployeeController.class" afterPath="$PROJECT_DIR$/out/artifacts/ssmcrud_war_exploded/WEB-INF/classes/com/zz/controller/EmployeeController.class" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java" />
+      <change beforePath="$PROJECT_DIR$/ssmcrud.iml" afterPath="$PROJECT_DIR$/ssmcrud.iml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zz/controller/EmployeeController.class" afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/EmployeeController.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -195,8 +44,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="79" column="36" lean-forward="false" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+            <state relative-caret-position="1881">
+              <caret line="126" column="10" lean-forward="false" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -225,11 +74,9 @@
       <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="279">
+              <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,7 +84,7 @@
       <file leaf-file-name="MvcTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/test/MvcTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
+            <state relative-caret-position="283">
               <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -275,22 +122,39 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="406">
               <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/jsp/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-638">
-              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-              <folding>
-                <element signature="e#4038#4045#1#HTML" expanded="true" />
-                <element signature="e#4887#4894#1#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="29">
+              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/web/q.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="135" column="32" lean-forward="true" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Msg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Msg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -298,7 +162,7 @@
       <file leaf-file-name="Department.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Department.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="145">
               <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
@@ -308,7 +172,7 @@
       <file leaf-file-name="EmployeeMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
+            <state relative-caret-position="1972">
               <caret line="109" column="44" lean-forward="false" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
               <folding>
                 <element signature="n#sql#1;n#mapper#0;n#!!top" expanded="false" />
@@ -419,7 +283,6 @@
         <option value="$PROJECT_DIR$/src/main/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zz/test/MapperTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/springMVC.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zz/service/imp/EmployeeServiceImp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zz/service/EmployeeService.java" />
@@ -428,10 +291,13 @@
         <option value="$PROJECT_DIR$/src/main/web/WEB-INF/views/list.jsp" />
         <option value="$PROJECT_DIR$/src/main/web/WEB-INF/dispatcherServlet-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/web/qq.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/zz/test/MvcTest.java" />
         <option value="$PROJECT_DIR$/src/main/web/WEB-INF/jsp/list.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/web/q.jsp" />
       </list>
     </option>
   </component>
@@ -466,9 +332,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="637" />
+    <option name="y" value="17" />
     <option name="width" value="1225" />
     <option name="height" value="1011" />
   </component>
@@ -507,6 +373,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -634,31 +502,11 @@
               <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.pagehelper:pagehelper:5.0.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.pagehelper:pagehelper:5.0.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="pagehelper-5.0.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssmcrud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.github.pagehelper:pagehelper:5.0.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="pagehelper-5.0.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="pagehelper" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -666,7 +514,7 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitHub/ssm" />
@@ -983,6 +831,7 @@
       <workItem from="1520392010768" duration="21423000" />
       <workItem from="1520415586765" duration="2021000" />
       <workItem from="1520421789966" duration="5044000" />
+      <workItem from="1520524397506" duration="1483000" />
     </task>
     <servers />
   </component>
@@ -1019,7 +868,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52119000" />
+    <option name="totallyTimeSpent" value="53602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1031,7 +880,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1053" extended-state="6" />
+    <frame x="637" y="17" width="1225" height="1011" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3153153" sideWeight="0.49583334" order="0" side_tool="false" content_ui="tabs" />
@@ -1040,18 +889,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.50416666" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277027" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40876776" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38939053" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32819906" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1913646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.311588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2489339" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31560284" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1075,21 +924,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.properties" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.jar!/org/springframework/web/filter/HiddenHttpMethodFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.4.RELEASE/spring-test-3.2.4.RELEASE.jar!/org/springframework/test/context/ContextConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1255,14 +1089,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/imp/EmployeeServiceImp.java" />
     <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/views/list.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/lib/springMVC.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="79" column="36" lean-forward="false" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -1271,19 +1097,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/web/qq.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/3.2.4.RELEASE/spring-test-3.2.4.RELEASE.jar!/org/springframework/test/web/servlet/TestDispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,7 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5829">
           <caret line="215" column="36" lean-forward="false" selection-start-line="215" selection-start-column="32" selection-end-line="215" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1323,14 +1139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/test/MapperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="36" column="90" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
@@ -1357,21 +1165,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="406">
           <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/test/MvcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1379,7 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-785">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1387,17 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2697">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1411,7 +1195,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="1972">
           <caret line="109" column="44" lean-forward="false" selection-start-line="109" selection-start-column="44" selection-end-line="109" selection-end-column="44" />
           <folding>
             <element signature="n#sql#1;n#mapper#0;n#!!top" expanded="false" />
@@ -1431,7 +1215,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="145">
           <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
@@ -1439,12 +1223,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/web/WEB-INF/jsp/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-638">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        <state relative-caret-position="29">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/qq.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/test/MvcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="44" />
           <folding>
-            <element signature="e#4038#4045#1#HTML" expanded="true" />
-            <element signature="e#4887#4894#1#HTML" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/test/MapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="36" column="90" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="126" column="10" lean-forward="false" selection-start-line="126" selection-start-column="10" selection-end-line="126" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Msg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/web/q.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="135" column="32" lean-forward="true" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1502,7 +1351,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|ssmcrud</last-edited>
+          <last-edited>ssmcrud</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

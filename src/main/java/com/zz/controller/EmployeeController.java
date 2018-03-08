@@ -3,12 +3,14 @@ package com.zz.controller;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.zz.pojo.Employee;
+import com.zz.pojo.Msg;
 import com.zz.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
@@ -28,7 +30,7 @@ public class EmployeeController {
      */
     @RequestMapping("/emps")
     public String getEmps(@RequestParam(value = "pn",defaultValue="1")Integer pn, Model model){
-        System.out.println("QQQQQ");
+
             //        引入分页插件
             //        在查询之前调用，传入页码，以及每页大小
         PageHelper.startPage(pn,5);
@@ -39,5 +41,16 @@ public class EmployeeController {
         model.addAttribute("pageInfo",pageInfo);
         return "/list";
     }
+
+    @RequestMapping("/q")
+    @ResponseBody
+    public Msg getEmps(@RequestParam(value = "pn",defaultValue = "1")Integer pn){
+        PageHelper.startPage(pn,5);
+        List<Employee> emps=employeeService.getAll();
+        PageInfo pageInfo = new PageInfo(emps,5);
+
+        return Msg.success().add("pageInfo",pageInfo);
+    }
+
 
 }
