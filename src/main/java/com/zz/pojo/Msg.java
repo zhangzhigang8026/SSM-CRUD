@@ -8,7 +8,6 @@ public class Msg {
     private int code;
     //提示信息
     private String msg;
-
     //返回给浏览器的数据
     private Map<String,Object> extend = new HashMap<String, Object>();
 

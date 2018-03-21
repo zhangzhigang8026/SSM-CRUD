@@ -46,6 +46,7 @@ public class MapperTest {
 //            mapper.insertSelective(new Employee(null,uid,"M",uid+"@163.com",2));
 //        }
 //        System.out.println("执行批量插入完成");
+
     }
 
 
