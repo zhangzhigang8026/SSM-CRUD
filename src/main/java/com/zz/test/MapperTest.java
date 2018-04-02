@@ -36,16 +36,16 @@ public class MapperTest {
 //        插入员工
 //        employeeMapper.insertSelective(new Employee(null,"Mary","M","Marry@163.com",2));
 
-//        批量插入，可以使用SqlSession
+     //   批量插入，可以使用SqlSession
 //        for(){  //不是批量插入
 //            employeeMapper.insertSelective(new Employee(null,"Mary","M","Marry@163.com",2));
 //        }
-//        EmployeeMapper mapper = sqlSessionTemplate.getMapper(EmployeeMapper.class);
-//        for (int i = 0; i <1000; i++) {
-//           String uid= UUID.randomUUID().toString().substring(0,5)  +i;
-//            mapper.insertSelective(new Employee(null,uid,"M",uid+"@163.com",2));
-//        }
-//        System.out.println("执行批量插入完成");
+        EmployeeMapper mapper = sqlSessionTemplate.getMapper(EmployeeMapper.class);
+        for (int i = 0; i <1000; i++) {
+           String uid= UUID.randomUUID().toString().substring(0,5)  +i;
+            mapper.insertSelective(new Employee(null,uid,"M",uid+"@163.com",2));
+        }
+        System.out.println("执行批量插入完成");
 
     }
 
